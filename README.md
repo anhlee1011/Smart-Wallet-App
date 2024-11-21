@@ -1,6 +1,6 @@
-![Screenshot 2024-11-18 223222](https://github.com/user-attachments/assets/59f43388-a5df-4aff-abb4-710c136040dc)<h2 align="center">Xây dựng bài tập lớn Ví tiền thông minh quản lý thu chi cá  trên nền tảng Android <a href="https://developer.android.com/" name="spring boot" ><img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"/></a></h2>
+Xây dựng bài tập lớn Ví tiền thông minh quản lý thu chi cá  trên nền tảng Android <a href="https://developer.android.com/" name="spring boot" ><img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"
 
-<h3 align="center">Sử dụng ngôn ngữ lập trình Java và các thẻ xây dựng giao diện được tính hợp sẵn trong Android Studio</h3>
+Sử dụng ngôn ngữ lập trình Java và các thẻ xây dựng giao diện được tính hợp sẵn trong Android Studio
 # [**UI**](#ui)
 
 - **Đăng nhập**
