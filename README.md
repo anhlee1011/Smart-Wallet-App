@@ -1,4 +1,4 @@
-Xây dựng bài tập lớn Ví tiền thông minh quản lý thu chi cá  trên nền tảng Android <a href="https://developer.android.com/" name="spring boot" ><img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"
+Xây dựng bài tập lớn Ví tiền thông minh quản lý thu chi cá  trên nền tảng Android 
 
 Sử dụng ngôn ngữ lập trình Java và các thẻ xây dựng giao diện được tính hợp sẵn trong Android Studio
 # [**UI**](#ui)
@@ -14,7 +14,7 @@ Sử dụng ngôn ngữ lập trình Java và các thẻ xây dựng giao diện
 
 
 - **Trang chủ**
-![Uploading Screenshot 2024-11-18 221453.png…]()
+![Screenshot 2024-11-18 221453](https://github.com/user-attachments/assets/01068b43-84ca-4329-8c2d-f71212556081)
 
 - **Quản lý giao dịch**
 
